@@ -1,2 +1,2 @@
 # cimgui_msgbox
-Windows MessageBox for cimgui
+Implement Windows MessageBox function for cimgui
