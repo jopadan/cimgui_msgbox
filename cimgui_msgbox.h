@@ -73,7 +73,7 @@ enum mb_flags
 #endif
 
 #define HWND ImGuiWindow*
-
+#define GetDesktopWindow igGetCurrentWindow
 #endif
 
 #define MB_NUM_BUTTONS 4
